@@ -1,0 +1,22 @@
+{
+  "name": "mentorama-pratica4",
+  "version": "1.0.0",
+  "description": "Projeto de automacao pratica ",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarolSoaresd/mentorama-pratica4.git"
+  },
+  "author": "Karoline Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KarolSoaresd/mentorama-pratica4/issues"
+  },
+  "homepage": "https://github.com/KarolSoaresd/mentorama-pratica4#readme",
+  "dependencies": {
+    "cypress": "^9.7.0"
+  }
+}
