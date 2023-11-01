@@ -28,7 +28,7 @@ describe('Validar funcionamento de cadastro e login', () => {
   it('Devo realizar login com sucesso', () => {
     cy.visit('https://seubarriga.wcaquino.me/login')
     cy.realizarLoginComSucesso()
-    cy.get('.btn').click()
+    cy.get('.btn')
     cy.get('.alert').should('contain', 'Bem vindo, Karoline Santos!')
   })
 })
