@@ -18,8 +18,5 @@
   "homepage": "https://github.com/KarolSoaresd/mentorama-pratica4#readme",
   "dependencies": {
     "cypress": "^9.7.0"
-  },
-  "devDependencies": {
-    "mochawesome": "^7.1.3"
   }
 }
